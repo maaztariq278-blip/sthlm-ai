@@ -1,0 +1,5 @@
+{"text": "Will it rain tomorrow in Stockholm?", "expected_intent": "forecast"}
+{"text": "What is the temperature right now?", "expected_intent": "current"}
+{"text": "What was the weather last week?", "expected_intent": "history"}
+{"text": "Hello how are you?", "expected_intent": "unknown"}
+{"text": "Is it going to snow in 3 days?", "expected_intent": "forecast"}
